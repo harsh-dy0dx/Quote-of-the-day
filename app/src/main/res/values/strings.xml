@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Quote of the Day</string>
+    <string name="quote_of_the_day">Quote of the Day</string>
+    <string name="view_favorites">Favorites</string>
+    <string name="favorite_quotes">Favorite Quotes</string>
+    <string name="no_favorites_yet">No favorite quotes yet.\nTap the heart on a quote to save it!</string>
+    <string name="added_to_favorites">Added to Favorites</string>
+    <string name="removed_from_favorites">Removed from Favorites</string>
+    <string name="share_quote_via">Share Quote via</string>
+</resources>
